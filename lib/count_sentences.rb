@@ -3,7 +3,7 @@
 class String
 
   def sentence?
-    "Hi, my name is Sophie".end_with?(".")
+    "Hi, my name is Sophie.".end_with?(".")
 
   end
 
